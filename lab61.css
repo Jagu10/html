@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+
+}
+#Page{
+	width: 100%;
+	background-color: gray;
+	float: left;
+	height: 200px;
+}
+#Header{
+	float: left;
+	width: 100%;
+	background-color: purple;
+}
+#Content{
+	background-color: orange;
+	float: left;
+	width: 100%;
+	height: 150px;
+	padding: 30px;
+
+}
+#Entry{
+	float:left;
+	width:60%;
+	background-color: black;
+	color: white;
+	margin: 4px;
+}
+#Sidebar{
+	float: right;
+	width: 30%;
+	background-color: black;
+	height: 75px;
+	color: white;
+	}
+#DUR{
+	float: left;
+	background-color: blue;
+	width: 100%;
+	color: white;
+
+}
